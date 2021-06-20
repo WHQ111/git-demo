@@ -9,6 +9,6 @@ hello world!
 hello world!
 hello world!
 hello world!
-hello world!
+hello world! hot-fix test
 /uusr/bin/bash: q: command not found
 iiii
