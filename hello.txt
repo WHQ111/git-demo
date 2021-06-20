@@ -10,4 +10,5 @@ hello world!
 hello world!
 hello world!
 hello world!
-/usr/bin/bash: q: command not found
+/uusr/bin/bash: q: command not found
+iiii
